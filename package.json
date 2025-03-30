@@ -1,0 +1,15 @@
+{
+  "repository": "#",
+  "license": "UNLICENSED",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite"
+  },
+  "dependencies": {
+    "lil-gui": "^0.11.0",
+    "three": "^0.134.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0"
+  }
+}
