@@ -3,7 +3,7 @@ import { resolve } from 'path'
 
 export default defineConfig({
     root: './',
-    publicDir: 'static', // Explicitly set to 'static' to match your folder structure
+    publicDir: 'public', // Changed from 'static' to 'public' to match your new folder structure
     build: {
         outDir: 'dist',
     },
